@@ -1,0 +1,24 @@
+.Home-Page{
+    width:100%;
+    min-height: 87vh;
+    max-height:auto;
+}
+.image{
+    height: 480px;
+    width: 450px;
+    border-radius: 50%;
+}
+.viewbook{
+    outline:none;
+    border: 2px solid violet;
+    background-color: rgba(0,0,0,.2);
+    border-radius:5px;
+    padding:10px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: rgb(148, 7, 82)
+  }
+  .viewbook:hover{
+    color: rgb(66, 10, 41);
+    border: 2px solid rgb(66, 10, 41);
+  }
